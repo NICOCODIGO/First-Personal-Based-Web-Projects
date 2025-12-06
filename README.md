@@ -1,6 +1,5 @@
-# First Personal Project (HTML & CSS)
+# [The Pan Bakery (First Web Portfolio project)](https://first-personal-based-web-projects.vercel.app/breads.html)
 
-<h1>The Pan Bakery (Portfolio project)</h1>
 The website I created represents a fictional bakery place if I was to run it one day which served as my first personal project for myself to show off.
 But my main objective was to improve my HTML and CSS abilities with the knowlegde I learned in my classes and put them to work and to continue educating myself.
 
